@@ -1,0 +1,3 @@
+def T(x):
+    pass
+    
